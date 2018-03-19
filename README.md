@@ -3,4 +3,4 @@ A basic flight route search engine using data from [OpenFlights](https://openfli
 
 The project runs on a Jupyter Notebook which you can launch using the link below—it can take **2-3 mins** to load.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwpicard/iPython_Project/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwpicard/flight-search/master)
